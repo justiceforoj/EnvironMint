@@ -41,7 +41,3 @@ EnvironMint is a developer environment setup tool that helps you quickly configu
 ### Analyzing Projects
 - Use the "Project Scanner" to analyze project directories
 - Get recommendations based on detected technologies
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
