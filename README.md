@@ -16,15 +16,11 @@ EnvironMint is a developer environment setup tool that helps you quickly configu
 
 ## Installation
 
-### Download and Run
-1. Download the latest release
-2. Extract the contents
-3. Run `EnvironMint.exe`
-
 ### Build from Source
 1. Clone the repository
 2. Open in Visual Studio 2022
-3. Build and run the solution
+3. Download required NuGet Packages
+4. Build and run the solution
 
 ## Usage
 
