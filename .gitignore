@@ -1,0 +1,29 @@
+# vs files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll.refresh
+*.pdb
+*.exe
+*.dll
+
+# build release
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# nuget
+packages/
+*.nupkg
+
+# u-specifics
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+# u-settings
+**/settings.json
